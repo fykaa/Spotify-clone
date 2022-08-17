@@ -11,14 +11,14 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 // let songItemPlay = document.getElementsByClassName('songItemPlay');
 
 let songs = [
-    {songName: "Salam-e-Ishq", filePath: "songs/1.mp3", coverPath: "cover/1.jpg"  },
+    {songName: "Songwriter", filePath: "songs/1.mp3", coverPath: "cover/1.jpg"  },
     {songName: "Whatsoever", filePath: "songs/2.mp3", coverPath: "cover/2.jpg"  },
-    {songName: "Doesn't matters", filePath: "songs/3.mp3", coverPath: "cover/3.jpg"  },
+    {songName: "Fetish", filePath: "songs/3.mp3", coverPath: "cover/3.jpg"  },
     {songName: "Issablela", filePath: "songs/4.mp3", coverPath: "cover/4.jpg"  },
-    {songName: "khabira", filePath: "songs/5.mp3", coverPath: "cover/5.jpg"  },
-    {songName: "higyisq", filePath: "songs/6.mp3", coverPath: "cover/6.jpg"  },
-    {songName: "kabiyrasfg", filePath: "songs/7.mp3", coverPath: "cover/7.jpg"  },
-    {songName: "mossedlewala", filePath: "songs/8.mp3", coverPath: "cover/8.jpg"  },
+    {songName: "Once upon a time", filePath: "songs/5.mp3", coverPath: "cover/5.jpg"  },
+    {songName: "shakira", filePath: "songs/6.mp3", coverPath: "cover/6.jpg"  },
+    {songName: "Topinder", filePath: "songs/7.mp3", coverPath: "cover/7.jpg"  },
+    {songName: "Mossedlewala", filePath: "songs/8.mp3", coverPath: "cover/8.jpg"  },
 ]
 
 songItems.forEach((element, i)=>{
